@@ -16,3 +16,5 @@ git remote add origin https://github.com/umarbsse/charle.git
 git push -u origin newbranch
 
 ---------------------
+Cloning Github to Local repo
+git clone --branch newbranch https://github.com/umarbsse/charle.git
